@@ -10,7 +10,7 @@ IMPORTANT
 ---------
 To run this bot, use this bookmark url,
 
-javascript:(function(){$.getScript('https://rawgit.com/Bcjc3/basicBot/master/basicBot.js');})();
+`javascript:(function(){$.getScript('https://rawgit.com/Bcjc3/basicBot/master/basicBot.js');})();`
 
 __basicBot has been updated to work under plug's update. There may still be bugs and functionality is not guaranteed.__
 
