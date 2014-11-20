@@ -8,7 +8,10 @@ A not so basic bot for plug.dj
 
 IMPORTANT
 ---------
-__To run this bot, use this bookmark url, javascript:(function(){$.getScript('https://rawgit.com/Bcjc3/basicBot/master/basicBot.js');})(); __
+To run this bot, use this bookmark url,
+
+javascript:(function(){$.getScript('https://rawgit.com/Bcjc3/basicBot/master/basicBot.js');})();
+
 __basicBot has been updated to work under plug's update. There may still be bugs and functionality is not guaranteed.__
 
 __Make sure to update your bookmark, as the link has changed recently!!!__
